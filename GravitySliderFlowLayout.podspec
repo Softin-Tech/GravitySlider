@@ -22,5 +22,6 @@ GravitySlider is a lightweight animation flowlayot for UICollectionView complete
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'GravitySliderFlowLayout/Classes/**/*'
+  s.swift_version = '4.2'
 
 end
